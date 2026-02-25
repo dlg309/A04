@@ -27,17 +27,17 @@
         <p><strong>Username:</strong> dlg309</p>
         <!-- Displays the GitHub username -->
 
-        <p><strong>Course Name:</strong> Web Development</p>
+        <p><strong>Course Name:</strong>Intro to Website Development</p>
         <!-- Replace with your actual course name if different -->
 
-        <p><strong>Course Number & Section:</strong> CS 101 - Section 01</p>
+        <p><strong>Course Number & Section:</strong> IS117 - 002</p>
         <!-- Replace with your actual course number and section -->
     </main>
 
     <footer>
         <!-- Footer section appears at the bottom of the page -->
 
-        <p>&copy; 2026 Diego Guevara | Due Date: March 1, 2026</p>
+        <p>&copy; 2026 Diego Guevara | Due Date: March 3, 2026</p>
         <!-- &copy; displays the copyright symbol, followed by name and due date -->
     </footer>
 
