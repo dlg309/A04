@@ -1,6 +1,3 @@
-DOCTYPE html
-<!-- Declares this document as HTML5 -->
-
 <html lang="en">
 <!-- Root element of the webpage. The language is set to English -->
 
