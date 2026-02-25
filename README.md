@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+DOCTYPE html
 <!-- Declares this document as HTML5 -->
 
 <html lang="en">
