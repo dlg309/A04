@@ -27,7 +27,7 @@
         <p><strong>Username:</strong> dlg309</p>
         <!-- Displays the GitHub username -->
 
-        <p><strong>Course Name:</strong>Intro to Website Development</p>
+        <p><strong>Course Name:</strong> Intro to Website Development</p>
         <!-- Replace with your actual course name if different -->
 
         <p><strong>Course Number & Section:</strong> IS117 - 002</p>
