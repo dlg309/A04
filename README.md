@@ -1,5 +1,3 @@
-<!-- My First Webpage-->
-<!DOCTYPE html> 
 <html lang="en"> 
 <body>
     <header>
